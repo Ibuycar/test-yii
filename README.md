@@ -11,7 +11,7 @@ __«Главная» (/)__
 
 __«О сайте» (/about)__
 
-Статичная страница с рандомным содежанием (lorem ipsum) [Макет](https://ibuycar.github.io/tests/static/tt_8.png)
+Статичная страница с рандомным содежанием (lorem ipsum) [Макет](https://ibuycar.github.io/tests/static/tt_6.png)
 
 __«Каталог» (/catalog)__
 
@@ -25,7 +25,7 @@ __«Каталог» (/catalog)__
 
 4. После выбора комплектации появляется кнопка перехода и по клику нас перекидывает на детальную страницу комплектации [Макет](https://ibuycar.github.io/tests/static/tt_4.png)
 
-5. Детальная страница комплектации содержит изображение, назване и вывод текстового описания [Макет](https://ibuycar.github.io/tests/static/tt_5.png) 
+5. Детальная страница комплектации содержит изображение, название и вывод текстового описания [Макет](https://ibuycar.github.io/tests/static/tt_5.png) 
 
 Пример адреса страницы http://test.ru/catalog/audi/a3/1.4_ambition
 
